@@ -9,19 +9,19 @@
   <url>http://maven.apache.org</url>
   
   <properties>
-  	<tomcat_url>http://harihara:8005/manager/text</tomcat_url>
+  	<tomcat_url>http://marusani:8001/manager/text</tomcat_url>
   </properties>
   
   <distributionManagement>
    <repository>
     <id>jfrog</id>
     <name>release</name>
-    <url>http://harihara:8081/artifactory/shoppingweb_local</url>
+    <url>http://marusani:8081/artifactory/shoppingweb_local</url>
    </repository>
    <snapshotRepository>
     <id>jfrog</id>
     <name>snapshot</name>
-    <url>http://harihara:8081/artifactory/shoppingweb_local</url>
+    <url>http://marusani:8081/artifactory/shoppingweb_local</url>
    </snapshotRepository>
  </distributionManagement>
  
