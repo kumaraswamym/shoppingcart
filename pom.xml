@@ -16,12 +16,12 @@
    <repository>
     <id>artifactorycreds</id>
     <name>release</name>
-    <url>http://marusani:8081/artifactory/shoppingweb_local</url>
+    <url>http://marusani:8081/artifactory/shoppingcart_local</url>
    </repository>
    <snapshotRepository>
     <id>artifactorycreds</id>
     <name>snapshot</name>
-    <url>http://marusani:8081/artifactory/shoppingweb_local</url>
+    <url>http://marusani:8081/artifactory/shoppingcart_local</url>
    </snapshotRepository>
  </distributionManagement>
  
