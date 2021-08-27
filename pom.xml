@@ -14,14 +14,14 @@
   
   <distributionManagement>
    <repository>
-    <id>artifactorycreds</id>
+    <id>jfrog</id>
     <name>release</name>
-    <url>http://marusani:8081/artifactory/shoppingcart_local</url>
+    <url>http://l-5cg7234d46:8082/artifactory/shoppingcart_local</url>
    </repository>
    <snapshotRepository>
-    <id>artifactorycreds</id>
+    <id>jfrog</id>
     <name>snapshot</name>
-    <url>http://marusani:8081/artifactory/shoppingcart_local</url>
+    <url>http://l-5cg7234d46:8082/artifactory/shoppingcart_local</url>
    </snapshotRepository>
  </distributionManagement>
  
